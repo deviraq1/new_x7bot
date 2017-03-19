@@ -13,4 +13,4 @@ chmod +x x7bot.sh
 echo -e "${CYAN}Installation Completed! Create a bot with creator.lua (lua creator.lua)${NC}"
 
 exit
---install.sh with lua by @abod_evo
+--install.sh with lua by @dev_iraq1
