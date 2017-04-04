@@ -3,25 +3,20 @@ do local _ = {
   disabled_channels = {},
   enabled_plugins = {
     "banhammer",
-    "subergroup",
-    "checks",
+    "groupmanager",
+    "msg-checks",
     "plugins",
-    "super2",
+    "tools",
     "me",
-    "re_replay",
-    "Help",
-    "lock_tafia",
-    "lock_badword",
-    "lock_smiles",
-    "lock_rdod"
+    "replay",
+    "pohot",
   },
   info_text = "",
   moderation = {
     data = "./data/moderation.json"
   },
   sudo_users = {
-    242937336,
-    128549161
+    209099061,
   }
 }
 return _
