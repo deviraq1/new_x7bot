@@ -13,14 +13,14 @@ do local _ = {
     "lock_tafia",
     "lock_badword",
     "lock_smiles",
-    "lock_rdod",
+    "jokr",
   },
   info_text = "",
   moderation = {
     data = "./data/moderation.json",
   },
   sudo_users = {
-     128549161,
+     209099061,
   }
 }
 return _
