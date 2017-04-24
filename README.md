@@ -19,11 +19,10 @@
 
 # التنصيب
 
-git clone https://github.com/x7hh/new_x7bot.git
-cd new_x7bot
-chmod +x x7bot.sh
-./x7bot.sh install
-./x7bot.sh # Enter a phone number & confirmation cod
+cd $home && git clone https://github.com/x7hh/new_x7bot.git && cd new_x7bot && chmod +x x7bot.sh && ./x7bot.sh install && ./x7bot.sh
+
+
+# Enter a phone number & confirmation cod
 
 ###ملاحظة   . 
 ### Sudo And Bot
